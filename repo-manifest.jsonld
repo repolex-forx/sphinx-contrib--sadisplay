@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/sphinx-contrib/sadisplay/commit/ad93a567f77df680283cb979fe5e0ca3e324c62f",
       "git:hexsha": "ad93a567f77df680283cb979fe5e0ca3e324c62f",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     }
   ]
 }
